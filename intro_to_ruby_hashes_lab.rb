@@ -24,8 +24,7 @@ def monopoly_with_third_tier
    {
      :railroads => {
       :names => {}, 
-      :rent_in_dollars => 
-      { one: " ", two: " ", three: " ", four: " "}
+      :rent_in_dollars => { one: " ", two: " ", three: " ", four: " "}
     } 
    }
    
